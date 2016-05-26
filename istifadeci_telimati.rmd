@@ -1,0 +1,3 @@
+# İstifadəçi təlimatı
+
+Hazırki sənəd veb səhifədən neçə istifadə etmək olar barəsində təlimatdır. Təlimat vizual və yazılı məlumatlarla izah olunacaqdır.
